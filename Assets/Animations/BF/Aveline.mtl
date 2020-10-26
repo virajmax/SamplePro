@@ -1,0 +1,118 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.01.2014 15:41:06
+
+newmtl 09___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Äåíèñ\Desktop\Aveline\Eyelashes_D.tga
+	map_Kd C:\Users\Äåíèñ\Desktop\Aveline\Eyelashes_D.tga
+	map_d C:\Users\Äåíèñ\Desktop\Aveline\Eyelashes_A.tga
+
+newmtl Tex_0030_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Äåíèñ\Desktop\Aveline\Eye_D.tga
+	map_Kd C:\Users\Äåíèñ\Desktop\Aveline\Eye_D.tga
+
+newmtl Tex_0601_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Äåíèñ\Desktop\Aveline\Mouth_D.tga
+	map_Kd C:\Users\Äåíèñ\Desktop\Aveline\Mouth_D.tga
+	map_d C:\Users\Äåíèñ\Desktop\Aveline\Mouth_A.tga
+
+newmtl Tex_0003_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Äåíèñ\Desktop\Aveline\Torso_D.tga
+	map_Kd C:\Users\Äåíèñ\Desktop\Aveline\Torso_D.tga
+	map_d C:\Users\Äåíèñ\Desktop\Aveline\Torso_A.tga
+
+newmtl Tex_0008_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Äåíèñ\Desktop\Aveline\Bottom_D.tga
+	map_Kd C:\Users\Äåíèñ\Desktop\Aveline\Bottom_D.tga
+
+newmtl Tex_0005_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Äåíèñ\Desktop\Aveline\Cap_D.tga
+	map_Kd C:\Users\Äåíèñ\Desktop\Aveline\Cap_D.tga
+	map_d C:\Users\Äåíèñ\Desktop\Aveline\Cap_A.tga
+
+newmtl 03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Äåíèñ\Desktop\Aveline\Head_D.tga
+	map_Kd C:\Users\Äåíèñ\Desktop\Aveline\Head_D.tga
+
+newmtl Tex_0006_0_dds
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5843 0.5843 0.5843
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0090 0.0090 0.0090
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Äåíèñ\Desktop\Aveline\Body_D.tga
+	map_Kd C:\Users\Äåíèñ\Desktop\Aveline\Body_D.tga

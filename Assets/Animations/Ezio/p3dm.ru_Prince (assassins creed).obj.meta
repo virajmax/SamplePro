@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 5029909800caf8148b7ea814fe70b030
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Mesh_0108
+    100002: Mesh_0111
+    100004: Mesh_0112
+    100006: Mesh_0113
+    100008: Mesh_0114
+    100010: Mesh_0115
+    100012: Mesh_0116
+    100014: Mesh_0117
+    100016: Mesh_0118
+    100018: Mesh_0119
+    100020: Mesh_0120
+    100022: Mesh_0121
+    100024: Object001
+    100026: Object003
+    100028: Object005
+    100030: //RootNode
+    100032: Text001
+    400000: Mesh_0108
+    400002: Mesh_0111
+    400004: Mesh_0112
+    400006: Mesh_0113
+    400008: Mesh_0114
+    400010: Mesh_0115
+    400012: Mesh_0116
+    400014: Mesh_0117
+    400016: Mesh_0118
+    400018: Mesh_0119
+    400020: Mesh_0120
+    400022: Mesh_0121
+    400024: Object001
+    400026: Object003
+    400028: Object005
+    400030: //RootNode
+    400032: Text001
+    2100000: Mesh_0108Mat
+    2100002: Mesh_0111Mat
+    2100004: Mesh_0112Mat
+    2100006: Mesh_0113Mat
+    2100008: Mesh_0114Mat
+    2100010: Mesh_0115Mat
+    2100012: Mesh_0116Mat
+    2100014: Mesh_0117Mat
+    2100016: Mesh_0118Mat
+    2100018: Mesh_0119Mat
+    2100020: Mesh_0120Mat
+    2100022: Mesh_0121Mat
+    2100024: Object001Mat
+    2100026: Object003Mat
+    2100028: Object005Mat
+    2100030: Text001Mat
+    2300000: Mesh_0108
+    2300002: Mesh_0111
+    2300004: Mesh_0112
+    2300006: Mesh_0113
+    2300008: Mesh_0114
+    2300010: Mesh_0115
+    2300012: Mesh_0116
+    2300014: Mesh_0117
+    2300016: Mesh_0118
+    2300018: Mesh_0119
+    2300020: Mesh_0120
+    2300022: Mesh_0121
+    2300024: Object001
+    2300026: Object003
+    2300028: Object005
+    2300030: Text001
+    3300000: Mesh_0108
+    3300002: Mesh_0111
+    3300004: Mesh_0112
+    3300006: Mesh_0113
+    3300008: Mesh_0114
+    3300010: Mesh_0115
+    3300012: Mesh_0116
+    3300014: Mesh_0117
+    3300016: Mesh_0118
+    3300018: Mesh_0119
+    3300020: Mesh_0120
+    3300022: Mesh_0121
+    3300024: Object001
+    3300026: Object003
+    3300028: Object005
+    3300030: Text001
+    4300000: Mesh_0108
+    4300002: Mesh_0111
+    4300004: Mesh_0112
+    4300006: Mesh_0113
+    4300008: Mesh_0114
+    4300010: Mesh_0115
+    4300012: Mesh_0116
+    4300014: Mesh_0117
+    4300016: Mesh_0118
+    4300018: Mesh_0119
+    4300020: Mesh_0120
+    4300022: Mesh_0121
+    4300024: Object001
+    4300026: Object003
+    4300028: Object005
+    4300030: Text001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0108Mat
+    second: {fileID: 2100000, guid: 72e904bda4a2bff488e3ded67edbe386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0111Mat
+    second: {fileID: 2100000, guid: 8b02c4dd9226fb44f9eca4f5dd219abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0112Mat
+    second: {fileID: 2100000, guid: 53f4757b22443d1478e8ef74b99fefb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0113Mat
+    second: {fileID: 2100000, guid: ec5e66f9b0c27fe4eac45cdf028799e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0114Mat
+    second: {fileID: 2100000, guid: d253d70c71d4dd548978a6cb606fc0d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0115Mat
+    second: {fileID: 2100000, guid: 85e9f947187e49d478af993af7b91223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0116Mat
+    second: {fileID: 2100000, guid: 671a9fdea778de6489757e6b5bb79f8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0117Mat
+    second: {fileID: 2100000, guid: 4f754edeb1ed3354d9c8233c80433c51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0118Mat
+    second: {fileID: 2100000, guid: 16beec583aa7ba041b3e8e6a6417e040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0119Mat
+    second: {fileID: 2100000, guid: eda8b0f486f5d374eaa154d4e7936365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0120Mat
+    second: {fileID: 2100000, guid: 545739a85a9e25341aa7b39110b84c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0121Mat
+    second: {fileID: 2100000, guid: dded491fb8d0bf34c85fd701f2c3582d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object001Mat
+    second: {fileID: 2100000, guid: 5c88ccd5a139200458f797f6a9c36282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object003Mat
+    second: {fileID: 2100000, guid: 38cbfbf3778070e4da03b60e40477392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object005Mat
+    second: {fileID: 2100000, guid: 7e0fbfce715583141bc08b66b9f35e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text001Mat
+    second: {fileID: 2100000, guid: dfcdf8f5f5f53b245bb79c413b4bef4e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: p3dm.ru_Prince (assassins creed)(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0108
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0111
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0112
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0113
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0114
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0115
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0116
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0117
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0118
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0119
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0120
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0121
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object001
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object003
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object005
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Text001
+      parentName: p3dm.ru_Prince (assassins creed)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

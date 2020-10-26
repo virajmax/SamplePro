@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: a6d8a0d1182d3ba489511329fb6039d0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AM238_0000
+    100002: AM238_0002
+    100004: AM238_0004
+    100006: AM238_Whaleboat_24ftShape_0001
+    100008: AM238_Whaleboat_24ftShape_0003
+    100010: AM238_Whaleboat_24ftShape_0005
+    100012: Boat_StowageShape_0007
+    100014: Boat_StowageShape_0009
+    100016: Boat_StowageShape_0011
+    100018: Boat_StowageShape_0013
+    100020: Boat_StowageShape_0015
+    100022: Boat_StowageShape_0017
+    100024: Children_00
+    100026: CM017_0006
+    100028: CM017_0008
+    100030: CM017_0010
+    100032: CM017_0012
+    100034: CM017_0014
+    100036: CM017_0016
+    100038: LSS039Shape
+    100040: MP_AM238_Whaleboat_24ft
+    100042: MP_AM238_Whaleboat_24ft_INDEX_1
+    100044: MP_AM238_Whaleboat_24ft_INDEX_2
+    100046: MP_CM017_Boat_Stowage_3
+    100048: MP_CM017_Boat_Stowage_3_INDEX_1
+    100050: MP_CM017_Boat_Stowage_3_INDEX_2
+    100052: MP_CM017_Boat_Stowage_3_INDEX_3
+    100054: MP_CM017_Boat_Stowage_3_INDEX_4
+    100056: MP_CM017_Boat_Stowage_3_INDEX_5
+    100058: Parent Models_00
+    100060: //RootNode
+    400000: AM238_0000
+    400002: AM238_0002
+    400004: AM238_0004
+    400006: AM238_Whaleboat_24ftShape_0001
+    400008: AM238_Whaleboat_24ftShape_0003
+    400010: AM238_Whaleboat_24ftShape_0005
+    400012: Boat_StowageShape_0007
+    400014: Boat_StowageShape_0009
+    400016: Boat_StowageShape_0011
+    400018: Boat_StowageShape_0013
+    400020: Boat_StowageShape_0015
+    400022: Boat_StowageShape_0017
+    400024: Children_00
+    400026: CM017_0006
+    400028: CM017_0008
+    400030: CM017_0010
+    400032: CM017_0012
+    400034: CM017_0014
+    400036: CM017_0016
+    400038: LSS039Shape
+    400040: MP_AM238_Whaleboat_24ft
+    400042: MP_AM238_Whaleboat_24ft_INDEX_1
+    400044: MP_AM238_Whaleboat_24ft_INDEX_2
+    400046: MP_CM017_Boat_Stowage_3
+    400048: MP_CM017_Boat_Stowage_3_INDEX_1
+    400050: MP_CM017_Boat_Stowage_3_INDEX_2
+    400052: MP_CM017_Boat_Stowage_3_INDEX_3
+    400054: MP_CM017_Boat_Stowage_3_INDEX_4
+    400056: MP_CM017_Boat_Stowage_3_INDEX_5
+    400058: Parent Models_00
+    400060: //RootNode
+    2100000: LSS033
+    2100002: AM238_Whaleboat_24ft
+    2100004: CM016_Boat_Stowage_2
+    2300000: AM238_Whaleboat_24ftShape_0001
+    2300002: AM238_Whaleboat_24ftShape_0003
+    2300004: AM238_Whaleboat_24ftShape_0005
+    2300006: Boat_StowageShape_0007
+    2300008: Boat_StowageShape_0009
+    2300010: Boat_StowageShape_0011
+    2300012: Boat_StowageShape_0013
+    2300014: Boat_StowageShape_0015
+    2300016: Boat_StowageShape_0017
+    2300018: LSS039Shape
+    3300000: AM238_Whaleboat_24ftShape_0001
+    3300002: AM238_Whaleboat_24ftShape_0003
+    3300004: AM238_Whaleboat_24ftShape_0005
+    3300006: Boat_StowageShape_0007
+    3300008: Boat_StowageShape_0009
+    3300010: Boat_StowageShape_0011
+    3300012: Boat_StowageShape_0013
+    3300014: Boat_StowageShape_0015
+    3300016: Boat_StowageShape_0017
+    3300018: LSS039Shape
+    4300000: LSS039Shape
+    4300002: AM238_Whaleboat_24ftShape_0001
+    4300004: AM238_Whaleboat_24ftShape_0003
+    4300006: AM238_Whaleboat_24ftShape_0005
+    4300008: Boat_StowageShape_0007
+    4300010: Boat_StowageShape_0009
+    4300012: Boat_StowageShape_0011
+    4300014: Boat_StowageShape_0013
+    4300016: Boat_StowageShape_0015
+    4300018: Boat_StowageShape_0017
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

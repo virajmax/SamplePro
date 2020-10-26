@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="assassinsCreedOdyssey" size="1.000000 1.131667" />
+    <ImageTarget name="assassin-s-creed-origins" size="1.000000 1.500000" />
+    <ImageTarget name="assassinsCreedSyndicate" size="1.000000 1.500000" />
+    <ImageTarget name="assassinsCreedUnity" size="1.000000 1.500000" />
+    <ImageTarget name="assassinsCreedRouge" size="1.000000 1.340557" />
+    <ImageTarget name="Assassins_Creed3" size="1.000000 1.277273" />
+    <ImageTarget name="assassinsCreedRevalation" size="1.000000 1.428205" />
+    <ImageTarget name="Assassins_Creed_brotherhood" size="1.000000 1.192000" />
+    <ImageTarget name="assassinsCreed2" size="1.000000 1.340557" />
+    <ImageTarget name="IMAG1955" size="1.000000 1.243816" />
+    <ImageTarget name="farcry5" size="1.000000 1.323077" />
+    <ImageTarget name="assassinsCreedBlackFlag" size="1.000000 1.412873" />
+  </Tracking>
+</QCARConfig>

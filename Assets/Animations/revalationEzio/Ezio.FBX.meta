@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: e6f6050d232013347a84b10937727712
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ankle left
+    100002: ankle right
+    100004: clavicle left
+    100006: clavicle right
+    100008: elbow left
+    100010: elbow right
+    100012: //RootNode
+    100014: finger left index a
+    100016: finger left index b
+    100018: finger left index c
+    100020: finger left middle a
+    100022: finger left middle b
+    100024: finger left middle c
+    100026: finger left pinky a
+    100028: finger left pinky b
+    100030: finger left pinky c
+    100032: finger left ring a
+    100034: finger left ring b
+    100036: finger left ring c
+    100038: finger left thumb a
+    100040: finger left thumb b
+    100042: finger left thumb c
+    100044: finger right index a
+    100046: finger right index b
+    100048: finger right index c
+    100050: finger right middle a
+    100052: finger right middle b
+    100054: finger right middle c
+    100056: finger right pinky a
+    100058: finger right pinky b
+    100060: finger right pinky c
+    100062: finger right ring a
+    100064: finger right ring b
+    100066: finger right ring c
+    100068: finger right thumb a
+    100070: finger right thumb b
+    100072: finger right thumb c
+    100074: head
+    100076: knee left
+    100078: knee right
+    100080: neck
+    100082: Object001
+    100084: root ground
+    100086: root hips
+    100088: shoulder left
+    100090: shoulder right
+    100092: spine lower
+    100094: spine middle
+    100096: spine upper
+    100098: thigh left
+    100100: thigh right
+    100102: toes left
+    100104: toes right
+    100106: unused align01
+    100108: unused align02
+    100110: unused align03
+    100112: unused align04
+    100114: unused align05
+    100116: unused align06
+    100118: unused chest_weapon_1
+    100120: unused chest_weapon_2
+    100122: unused l_forearm_roll
+    100124: unused l_inhand
+    100126: unused l_lowleg_weapon
+    100128: unused l_toe
+    100130: unused l_up_arm_roll
+    100132: unused l_upleg_weapon
+    100134: unused l_uplegroll
+    100136: unused l_weapon
+    100138: unused lowback_weapon_1
+    100140: unused lowback_weapon_2
+    100142: unused r_forearm_roll
+    100144: unused r_inhand
+    100146: unused r_lowleg_weapon
+    100148: unused r_up_arm_roll
+    100150: unused r_upleg_weapon
+    100152: unused r_uplegroll
+    100154: unused r_weapon
+    100156: unused reference
+    100158: unused spine4
+    100160: unused to es right
+    100162: unused upback_weapon_1
+    100164: unused upback_weapon_2
+    100166: wrist left
+    100168: wrist right
+    400000: ankle left
+    400002: ankle right
+    400004: clavicle left
+    400006: clavicle right
+    400008: elbow left
+    400010: elbow right
+    400012: //RootNode
+    400014: finger left index a
+    400016: finger left index b
+    400018: finger left index c
+    400020: finger left middle a
+    400022: finger left middle b
+    400024: finger left middle c
+    400026: finger left pinky a
+    400028: finger left pinky b
+    400030: finger left pinky c
+    400032: finger left ring a
+    400034: finger left ring b
+    400036: finger left ring c
+    400038: finger left thumb a
+    400040: finger left thumb b
+    400042: finger left thumb c
+    400044: finger right index a
+    400046: finger right index b
+    400048: finger right index c
+    400050: finger right middle a
+    400052: finger right middle b
+    400054: finger right middle c
+    400056: finger right pinky a
+    400058: finger right pinky b
+    400060: finger right pinky c
+    400062: finger right ring a
+    400064: finger right ring b
+    400066: finger right ring c
+    400068: finger right thumb a
+    400070: finger right thumb b
+    400072: finger right thumb c
+    400074: head
+    400076: knee left
+    400078: knee right
+    400080: neck
+    400082: Object001
+    400084: root ground
+    400086: root hips
+    400088: shoulder left
+    400090: shoulder right
+    400092: spine lower
+    400094: spine middle
+    400096: spine upper
+    400098: thigh left
+    400100: thigh right
+    400102: toes left
+    400104: toes right
+    400106: unused align01
+    400108: unused align02
+    400110: unused align03
+    400112: unused align04
+    400114: unused align05
+    400116: unused align06
+    400118: unused chest_weapon_1
+    400120: unused chest_weapon_2
+    400122: unused l_forearm_roll
+    400124: unused l_inhand
+    400126: unused l_lowleg_weapon
+    400128: unused l_toe
+    400130: unused l_up_arm_roll
+    400132: unused l_upleg_weapon
+    400134: unused l_uplegroll
+    400136: unused l_weapon
+    400138: unused lowback_weapon_1
+    400140: unused lowback_weapon_2
+    400142: unused r_forearm_roll
+    400144: unused r_inhand
+    400146: unused r_lowleg_weapon
+    400148: unused r_up_arm_roll
+    400150: unused r_upleg_weapon
+    400152: unused r_uplegroll
+    400154: unused r_weapon
+    400156: unused reference
+    400158: unused spine4
+    400160: unused to es right
+    400162: unused upback_weapon_1
+    400164: unused upback_weapon_2
+    400166: wrist left
+    400168: wrist right
+    2100000: 'Material #65'
+    4300000: Object001
+    9500000: //RootNode
+    13700000: Object001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
